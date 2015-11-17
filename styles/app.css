@@ -14,3 +14,11 @@ html {
 .border-button:hover {
     cursor: pointer;
 }
+
+.natural-language-form select {
+    border: none;
+    border-bottom: 1px dashed #333333;
+    border-radius: 0;
+
+    -webkit-appearance: none;
+}
