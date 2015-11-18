@@ -17,7 +17,7 @@ html {
 
 .natural-language-form select {
     border: none;
-    border-bottom: 1px dashed #333333;
+    border-bottom: 1px solid #cccccc;
     border-radius: 0;
 
     -webkit-appearance: none;
